@@ -1,0 +1,17 @@
+# Colección BGA
+
+
+## Introducción
+
+## Justificación
+
+## Objetivos
+
+## Capítulo 1
+
+## Capítulo 2
+
+## Capítulo 3
+
+## Conclusiones
+
